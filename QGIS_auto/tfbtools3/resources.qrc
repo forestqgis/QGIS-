@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/TFB_Tools3" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>

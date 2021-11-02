@@ -1,0 +1,7 @@
+國土測繪中心,http://maps.nlsc.gov.tw/S_Maps/wmts,WMTS
+中研院百年歷史地圖,http://gis.sinica.edu.tw/tileserver/wmts,WMTS
+林務局FGIS地圖服務,http://gis.forest.gov.tw/arcgis/services/WMS/FHWMS/MapServer/WmsServer?request=GetCapabilities&service=WMS,WMS
+福衛二號影像,http://10.51.231.101/asofb/FS2/wms?request=GetCapabilities&service=WMS,WMS
+全臺鑲嵌影像服務,http://10.51.231.101/asofb/wms?request=GetCapabilities&service=WMS,WMS
+SPOT衛星影像,http://140.115.110.11/SP/wmts,WMTS
+FGIS台灣底圖,http://gis.forest.gov.tw/arcgis/rest/services/FH/%E5%8F%B0%E7%81%A3%E5%9C%B0%E5%9C%96/MapServer/WMTS,WMTS

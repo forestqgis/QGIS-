@@ -1,0 +1,1 @@
+pyinstaller qgis3_auto.py

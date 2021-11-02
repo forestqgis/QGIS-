@@ -1,0 +1,16 @@
+<GMLFeatureClassList>
+  <GMLFeatureClass>
+    <Name>AF021500020000</Name>
+    <ElementPath>AF021500020000</ElementPath>
+    <!--MULTIPOLYGON-->
+    <GeometryType>6</GeometryType>
+    <SRSName>EPSG:4326</SRSName>
+    <DatasetSpecificInfo>
+      <FeatureCount>1</FeatureCount>
+      <ExtentXMin>121.55206</ExtentXMin>
+      <ExtentXMax>121.55232</ExtentXMax>
+      <ExtentYMin>25.03268</ExtentYMin>
+      <ExtentYMax>25.03302</ExtentYMax>
+    </DatasetSpecificInfo>
+  </GMLFeatureClass>
+</GMLFeatureClassList>

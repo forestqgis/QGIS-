@@ -1,0 +1,11 @@
+EMAP5,臺灣通用電子地圖(套疊等高線),contextualWMSLegend=0&crs=EPSG:3857&dpiMode=7&featureCount=10&format=image/jpeg&layers=EMAP5&styles=default&tileMatrixSet=GoogleMapsCompatible&url=http://maps.nlsc.gov.tw/S_Maps/wmts
+CITY,縣市界,contextualWMSLegend=0&crs=EPSG:3857&dpiMode=7&featureCount=10&format=image/png&layers=CITY&styles=default&tileMatrixSet=GoogleMapsCompatible&url=http://maps.nlsc.gov.tw/S_Maps/wmts
+LANDSECT,段籍圖,contextualWMSLegend=0&crs=EPSG:3857&dpiMode=7&featureCount=10&format=image/png&layers=LANDSECT&styles=default&tileMatrixSet=GoogleMapsCompatible&url=http://maps.nlsc.gov.tw/S_Maps/wmts
+TOWN,鄉鎮區界,contextualWMSLegend=0&crs=EPSG:3857&dpiMode=7&featureCount=10&format=image/png&layers=TOWN&styles=default&tileMatrixSet=GoogleMapsCompatible&url=http://maps.nlsc.gov.tw/S_Maps/wmts
+PHOTO2,正射影像圖(通用),contextualWMSLegend=0&crs=EPSG:3857&dpiMode=7&featureCount=10&format=image/jpeg&layers=PHOTO2&styles=default&tileMatrixSet=GoogleMapsCompatible&url=http://maps.nlsc.gov.tw/S_Maps/wmts
+GoogleMaps,GoogleMaps,type=xyz&url=https://mt1.google.com/vt/lyrs%3Dm%26x%3D%7Bx%7D%26y%3D%7By%7D%26z%3D%7Bz%7D&zmax=18&zmin=0
+Google_Satellite,Google_Satellite,type=xyz&url=https://mt1.google.com/vt/lyrs%3Ds%26x%3D%7Bx%7D%26y%3D%7By%7D%26z%3D%7Bz%7D&zmax=18&zmin=0
+Google_Terrain,Google_Terrain,type=xyz&url=https://mt1.google.com/vt/lyrs%3Dp%26x%3D%7Bx%7D%26y%3D%7By%7D%26z%3D%7Bz%7D&zmax=18&zmin=0
+SP2019NC_3857,SP2019NC_3857,contextualWMSLegend=0&crs=EPSG:3857&dpiMode=7&featureCount=10&format=image/png&layers=SP2019NC_3857&styles=default&tileMatrixSet=GoogleMapsCompatible&url=http://140.115.110.11/SP/wmts
+EMAP96,臺灣通用電子地圖(高DPI字),contextualWMSLegend=0&crs=EPSG:3857&dpiMode=7&featureCount=10&format=image/png&layers=EMAP96&styles=default&tileMatrixSet=GoogleMapsCompatible&url=http://maps.nlsc.gov.tw/S_Maps/wmts
+FH_%E5%8F%B0%E7%81%A3%E5%9C%B0%E5%9C%96,FH_台灣地圖,contextualWMSLegend=0&crs=EPSG:3826&dpiMode=7&featureCount=10&format=image/png&layers=FH_%E5%8F%B0%E7%81%A3%E5%9C%B0%E5%9C%96&styles=default&tileMatrixSet=default028mm&url=http://gis.forest.gov.tw/arcgis/rest/services/FH/%E5%8F%B0%E7%81%A3%E5%9C%B0%E5%9C%96/MapServer/WMTS

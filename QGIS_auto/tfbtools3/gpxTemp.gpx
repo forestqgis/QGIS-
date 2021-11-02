@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<gpx creator="FCU_GIS" version="1.0">
+		<trk>
+			<name>reviseGPX</name>
+			<trkseg>
+				<trkpt lat="25.1459279" lon="121.5759558">
+					<ele>598.0</ele>
+					<time>2019-06-16 03:44:04.100000</time>
+					<Path>C:/Users/vincentlu/Desktop/QGIS3上課用教學資料+外掛程式/測試用資料/jpeg照片(exif)/20181231_164039.jpg</Path>
+				</trkpt>
+				<trkpt lat="25.1459279" lon="121.5759558">
+					<ele>598.0</ele>
+					<time>2019-06-16 03:44:04.100000</time>
+					<Path>C:/Users/vincentlu/Desktop/QGIS3上課用教學資料+外掛程式/測試用資料/jpeg照片(exif)/20181231_164039.jpg</Path>
+				</trkpt>
+			</trkseg>
+		</trk>
+	</gpx>

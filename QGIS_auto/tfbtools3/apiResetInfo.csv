@@ -1,0 +1,12 @@
+acc,747e2884-1ebd-4e8a-ad7a-5771e318cbab
+pass,forest
+url,http://qgis.forest/QDATA/PHP/
+sec,LandQuerySec.php
+secxy,LandQuerySecXY.php
+wfs3,landWFS3.php
+ldesc,LandDescription.php
+bdesc,BuildingDescription.php
+lquery,PublicLandQuery.php
+owner,LandOwnership.php
+other,LandOtherRights.php
+request,GET
